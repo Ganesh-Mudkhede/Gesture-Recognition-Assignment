@@ -1,4 +1,4 @@
-# Gesture Recognition Case study IIITB Assignment [![]
+# Gesture Recognition Case study
 
 
 Developed by:
